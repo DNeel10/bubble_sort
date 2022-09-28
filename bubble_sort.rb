@@ -13,4 +13,4 @@ def bubble_sort(array)
     puts "#{sorted_array}"
 end
 
-bubble_sort([4, 3, 78, 2, 0, 2])
+bubble_sort([4,3,78,2,0,2])
